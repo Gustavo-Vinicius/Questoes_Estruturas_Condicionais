@@ -1,4 +1,4 @@
-# Questoes_Estruturas_Condicionais
+# Questoes de Estruturas Condicionais
 12 Questões de Estruturas Condicionais resolvidas em C# para praticar os fundamentos da linguagem.
 
 ##EXERCÍCIO 1
